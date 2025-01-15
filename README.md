@@ -1,4 +1,4 @@
-# Virat Kohli Dashboard - Power BI Project
+# Virat Kohli Performance Metrics - Data Visualization in Power BI
 
 I developed a dynamic and interactive Power BI dashboard that visualizes key performance metrics and statistics of Indian cricketer Virat Kohli, showcasing my skills in data visualization, analysis, and Power BI expertise.
 
